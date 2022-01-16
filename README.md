@@ -1,0 +1,2 @@
+# Weather-Forcasting---Time-Series-Forcasting
+Time series forecasting is the process of analyzing time series data using statistics and modeling to make predictions and inform strategic decision-making.   We are using Tensor-Flow to analyse weather periodic data  contains 14 different features such as air temperature, atmospheric pressure, and humidity. we tried 5 differet models to analyse and forcast time series data of weather.
